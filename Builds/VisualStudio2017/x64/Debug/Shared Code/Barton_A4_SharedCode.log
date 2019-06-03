@@ -1,0 +1,52 @@
+﻿  PluginProcessor.cpp
+  PluginEditor.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(82): warning C4100: 'index': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(86): warning C4100: 'index': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(91): warning C4100: 'newName': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(91): warning C4100: 'index': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(101): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(101): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(137): warning C4100: 'midiMessages': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(186): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(184): warning C4100: 'delayBufferData': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(215): warning C4244: 'argument': conversion from 'const int' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(203): warning C4100: 'bufferData': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(226): warning C4305: 'argument': truncation from 'double' to 'Type'
+          with
+          [
+              Type=float
+          ]
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(232): warning C4305: 'argument': truncation from 'double' to 'Type'
+          with
+          [
+              Type=float
+          ]
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(233): warning C4305: 'argument': truncation from 'double' to 'Type'
+          with
+          [
+              Type=float
+          ]
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(251): warning C4100: 'destData': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(258): warning C4100: 'sizeInBytes': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a4\source\pluginprocessor.cpp(258): warning C4100: 'data': unreferenced formal parameter
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_cryptography.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_basics.cpp
+  include_juce_gui_extra.cpp
+  include_juce_opengl.cpp
+  Barton_A4_SharedCode.vcxproj -> C:\Users\Home\Desktop\Software\Barton_A4\Builds\VisualStudio2017\x64\Debug\Shared Code\Barton_A4.lib
